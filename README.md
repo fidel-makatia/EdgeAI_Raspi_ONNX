@@ -69,16 +69,16 @@ _Raspberry Pi 4 with connected smart home devices_
 
 ### GPIO Pin Configuration
 
-| GPIO Pin | Device            | Room        | Power |
-| -------- | ----------------- | ----------- | ----- |
-| 17       | Living Room Light | Living Room | 60W   |
-| 27       | Living Room Fan   | Living Room | 75W   |
-| 22       | Smart TV          | Living Room | 150W  |
-| 23       | Bedroom Light     | Bedroom     | 40W   |
-| 24       | Bedroom AC        | Bedroom     | 1200W |
-| 5        | Kitchen Light     | Kitchen     | 80W   |
-| 26       | Front Door Lock   | Entrance    | 5W    |
-| 16       | Garden Light      | Outdoor     | 100W  |
+| GPIO Pin | Device            | Room        | 
+| -------- | ----------------- | ----------- |
+| 17       | Living Room Light | Living Room |
+| 27       | Living Room Fan   | Living Room |
+| 22       | Smart TV          | Living Room |
+| 23       | Bedroom Light     | Bedroom     |
+| 24       | Bedroom AC        | Bedroom     |
+| 5        | Kitchen Light     | Kitchen     |
+| 26       | Front Door Lock   | Entrance    |
+| 16       | Garden Light      | Outdoor     |
 
 ---
 
@@ -94,7 +94,6 @@ The system delivers exceptional performance on Raspberry Pi 4:
 
 - **Average Latency:** 1596ms for complete command processing
 - **Tokens/Second:** 0.6 (ONNX optimized)
-- **Power Monitoring:** Real-time tracking (1425W total capacity)
 - **Active Devices:** 3/8 devices currently active
 - **Temperature:** 72°F ambient monitoring
 
