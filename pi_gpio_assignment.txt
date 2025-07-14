@@ -1,0 +1,8 @@
+GPIO 17: living_room_light
+GPIO 27: living_room_fan
+GPIO 22: smart_tv
+GPIO 23: bedroom_light
+GPIO 24: bedroom_ac
+GPIO 5: kitchen_light
+GPIO 26: front_door_lock
+GPIO 16: garden_light
