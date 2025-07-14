@@ -36,7 +36,7 @@ _Raspberry Pi 4 with connected smart home devices_
 
    ```bash
    git clone https://github.com/yourusername/fidel-makatia/EdgeAI_Raspi_ONNX.git
-   cd onnx-smart-home-assistant
+   cd EdgeAI_Raspi_ONNX
    ```
 
 2. **Install dependencies**
